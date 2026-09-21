@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro Max",
+    "slug": "iphone-15-pro-max",
+    "category": "Điện thoại",
+    "price": 29990000,
+    "originalPrice": 34990000,
+    "image": "https://picsum.photos/seed/iphone15/600/600",
+    "description": "iPhone 15 Pro Max là siêu phẩm mới nhất từ Apple với thiết kế khung viền Titanium cao cấp, mang lại cảm giác nhẹ nhàng và sang trọng hơn bao giờ hết. Được trang bị chip A17 Pro mạnh mẽ nhất từ trước đến nay, máy xử lý mọi tác vụ từ chơi game đến biên tập video một cách mượt mà. Hệ thống camera 48MP với ống kính telephoto 5x cho phép bạn chụp ảnh chuyên nghiệp với độ chi tiết đáng kinh ngạc. Cổng USB-C tiện lợi cùng nút Action Button mới giúp tùy biến trải nghiệm sử dụng theo phong cách riêng của bạn.",
+    "features": [
+      "Chip A17 Pro",
+      "Camera 48MP",
+      "Titanium Design",
+      "USB-C",
+      "Action Button"
+    ],
+    "rating": 4.8,
+    "reviews": 256,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung-galaxy-s24-ultra",
+    "category": "Điện thoại",
+    "price": 27990000,
+    "originalPrice": 31990000,
+    "image": "https://picsum.photos/seed/samsung24/600/600",
+    "description": "Samsung Galaxy S24 Ultra đánh dấu kỷ nguyên mới của trí tuệ nhân tạo trên điện thoại với bộ tính năng Galaxy AI đột phá, hỗ trợ dịch thuật trực tiếp cuộc gọi và chỉnh sửa ảnh thông minh. Camera 200MP hàng đầu thị trường cho khả năng chụp ảnh siêu chi tiết, zoom quang học 5x và quay video 8K sắc nét. Bút S-Pen tích hợp sẵn giúp ghi chú, vẽ phác thảo và điều khiển từ xa một cách tiện lợi. Khung viền Titanium bền bỉ kết hợp màn hình Dynamic AMOLED 2X mang đến trải nghiệm hình ảnh tuyệt đỉnh.",
+    "features": [
+      "Galaxy AI",
+      "S-Pen tích hợp",
+      "Camera 200MP",
+      "Khung Titanium",
+      "Màn hình Dynamic AMOLED 2X"
+    ],
+    "rating": 4.7,
+    "reviews": 189,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M3",
+    "slug": "macbook-air-m3",
+    "category": "Laptop",
+    "price": 27490000,
+    "originalPrice": 32490000,
+    "image": "https://picsum.photos/seed/macbookm3/600/600",
+    "description": "MacBook Air M3 là chiếc laptop mỏng nhẹ mạnh mẽ nhất thế giới, được trang bị chip Apple M3 thế hệ mới với hiệu năng vượt trội so với thế hệ trước. Thời lượng pin lên đến 18 giờ cho phép bạn làm việc cả ngày dài mà không cần lo lắng về sạc. Màn hình Liquid Retina 13.6 inch với độ sáng 500 nits hiển thị hình ảnh rực rỡ và sắc nét đến từng chi tiết. Thiết kế không quạt hoàn toàn yên tĩnh, chỉ nặng 1.24kg, lý tưởng cho những ai cần di chuyển thường xuyên.",
+    "features": [
+      "Chip Apple M3",
+      "Pin 18 giờ",
+      "Màn hình Liquid Retina",
+      "Thiết kế không quạt",
+      "Chỉ nặng 1.24kg"
+    ],
+    "rating": 4.9,
+    "reviews": 342,
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro 2",
+    "slug": "airpods-pro-2",
+    "category": "Phụ kiện",
+    "price": 5990000,
+    "originalPrice": 6990000,
+    "image": "https://picsum.photos/seed/airpodspro/600/600",
+    "description": "AirPods Pro 2 mang đến trải nghiệm âm thanh đỉnh cao với công nghệ chống ồn chủ động ANC thế hệ mới, loại bỏ gấp đôi tiếng ồn so với thế hệ trước. Âm thanh không gian cá nhân hóa với tính năng Adaptive Audio tự động điều chỉnh theo môi trường xung quanh. Hộp sạc USB-C tích hợp loa tìm kiếm và hỗ trợ sạc không dây MagSafe tiện lợi. Thời lượng pin lên đến 6 giờ nghe nhạc liên tục, cùng chỉ số chống nước IP54 phù hợp cho mọi hoạt động hàng ngày.",
+    "features": [
+      "Chống ồn chủ động ANC",
+      "Âm thanh không gian",
+      "Hộp sạc USB-C",
+      "Adaptive Audio",
+      "Chống nước IP54"
+    ],
+    "rating": 4.6,
+    "reviews": 521,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro M4",
+    "slug": "ipad-pro-m4",
+    "category": "Máy tính bảng",
+    "price": 28990000,
+    "originalPrice": 33990000,
+    "image": "https://picsum.photos/seed/ipadprom4/600/600",
+    "description": "iPad Pro M4 là chiếc máy tính bảng mạnh mẽ nhất từ trước đến nay với chip Apple M4 đột phá, mang lại hiệu năng ngang ngửa các máy tính để bàn chuyên nghiệp. Màn hình Ultra Retina XDR sử dụng công nghệ OLED tandem cho độ sáng và độ tương phản ấn tượng chưa từng có trên iPad. Hỗ trợ Apple Pencil Pro với cảm biến lực bóp và phản hồi xúc giác, biến iPad thành công cụ sáng tạo không giới hạn. Thiết kế siêu mỏng chỉ 5.1mm, nhẹ hơn bao giờ hết nhưng vẫn giữ nguyên sức mạnh vượt trội.",
+    "features": [
+      "Chip Apple M4",
+      "Màn hình OLED Tandem",
+      "Apple Pencil Pro",
+      "Siêu mỏng 5.1mm",
+      "Ultra Retina XDR"
+    ],
+    "rating": 4.8,
+    "reviews": 178,
+    "inStock": true
+  }
+]
